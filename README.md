@@ -5,6 +5,12 @@ In this game, the player chases an AI opponent across three platforms, avoiding 
 
 ## Gameplay
 
+<div align="center">
+
+![Gameplay](assets/gameplay.gif)
+
+</div>
+
 - Move across **three platforms** using **moving stairs** and **elevators**.  
 - Encounter **various obstacles** moving at different heights that make chasing the opponent more challenging.  
 - Collect **bonus points** in the form of **chests** or **banknotes**.  
